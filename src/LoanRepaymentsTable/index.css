@@ -1,0 +1,245 @@
+#inota-logo{
+  width: 80px;
+  height: 75px;
+  margin-left: 2%;
+}
+#welcome-text p{
+  font-weight: 30%;
+}
+#top-nav{
+  display: flex;
+  gap: 300px;
+  margin-top: 1%;
+  font-size: 18px;
+}
+th,
+td {
+    padding: 8px 8px 8px 8px;
+    text-align: left;
+    border-bottom: 12px solid #0000;
+    line-height: 355%;
+}
+
+th {
+    background-color: #F2F2F2;
+    font-weight: bold;
+    line-height: 465%;
+}
+
+.loan-repayments {
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-bottom: -3%;
+   
+}
+
+.loans-table {
+    width: 75%;
+    margin-left: 10%;
+
+
+}
+
+.loans {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.loans-table {
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.loans-table thead tr:first-child {
+    background-color: rgb(241, 235, 235);
+    box-shadow: 5px 5px 5px #D99292;
+}
+
+.loans-table th, .loans-table td {
+    border: none;
+    padding: 13px;
+    min-width: 100px;
+    background-color: white;
+}
+
+.loans-table tr {
+    border-bottom: 1px solid #E2DEDE;
+}
+
+.loans-table tr:last-child {
+    border-bottom: none;
+}
+
+.loans-table tr:hover {
+    background-color: #F5F5F5;
+}
+.loans-table tr {
+  border-bottom: 1px solid darkgray; 
+}
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 21px;
+}
+
+.pagination-item {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.pagination-item.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.loans-table {
+  width: 75%;
+  margin-left: 10%;
+}
+
+.loans {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.loans-table {
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.loans-table thead tr:first-child {
+  background-color: rgb(241, 235, 235);
+  box-shadow: 5px 5px 5px #D99292;
+}
+
+.loans-table th, .loans-table td {
+  border: none;
+  padding: 13px;
+  min-width: 100px;
+  background-color: white;
+}
+
+.loans-table tr {
+  border-bottom: 1px solid #E2DEDE;
+}
+
+.loans-table tr:last-child {
+  border-bottom: none;
+}
+
+.loans-table tr:hover {
+  background-color: #F5F5F5;
+}
+
+.loans-table tr {
+  border-bottom: 1px solid darkgray; 
+}
+
+#logo-container {
+  display: flex;
+  gap: 40%;
+}
+
+#nav-link.active {
+  text-decoration: underline;
+}
+
+.nav-linkunderline {
+  text-decoration: underline;
+  color: white;
+}
+
+#navlist {
+  display: flex;
+  gap: 300px;
+  list-style: none;
+  margin-left: 10%;
+  font-size: 18px;
+  color: white;
+  padding-top: 2%;
+}
+
+#navbar {
+  background-color: rgb(11, 11, 74);
+  height: 85px;
+}
+
+
+
+.loan-repayments {
+  margin-top: 3%;
+  margin-left: 40%;
+  margin-bottom: -30px;
+  }
+
+.loans {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.loans-table {
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.loans-table thead tr:first-child {
+  background-color: rgb(241, 235, 235);
+  box-shadow: 5px 5px 5px #D99292;
+}
+
+.loans-table th, .loans-table td {
+  border: none;
+  padding: 13px;
+  min-width: 100px;
+  background-color: white;
+}
+
+.loans-table tr {
+  border-bottom: 1px solid #E2DEDE;
+}
+
+.loans-table tr:last-child {
+  border-bottom: none;
+}
+
+.loans-table tr:hover {
+  background-color: #F5F5F5;
+}
+
+.loans-table tr {
+  border-bottom: 1px solid darkgray; 
+}
