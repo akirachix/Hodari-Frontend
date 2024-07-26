@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+// import Loan from './Table/Loan';
 import LoanRepaymentsTable from './LoanRepaymentsTable';
 
 
@@ -13,4 +13,3 @@ const App = () => {
 };
 
 export default App;
-
