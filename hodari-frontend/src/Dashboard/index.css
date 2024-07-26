@@ -1,0 +1,57 @@
+h5{
+    padding-right: 100px; 
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .dashboard-nav button.active {
+    font-weight: bold;
+    border-bottom: 2px solid white;
+  }
+  
+  .dashboard-main {
+    padding: 20px;
+  }
+  
+  .statistics {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding-right: 8%;
+    padding-left: 8%;
+    font-size: 25px;
+  }
+  
+  .stat-box {
+    background-color: #7bdff2;
+    padding: 50px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+    height: 50%;
+    margin-top: 2%;
+
+  }
+  
+  .stat-box h2 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 500;
+  }
+  
+  .stat-box p {
+    margin: 9px 0 0;
+    font-size: 30px;
+  }
+  
+  .graph-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  h1{
+    
+    padding-left: 45%;
+    font-weight: 800;
+    font-size: 28px;
+  }
+  

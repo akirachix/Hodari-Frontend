@@ -1,0 +1,49 @@
+#logo-container{
+    display: flex;
+    gap: 40%;
+  }
+  
+  #inota-logo{
+    width: 112px;
+    height: 90px;
+    margin-left: 2%;
+    margin-top: 0.3%;
+  }
+  .dashboard{
+    padding-top: -10%;
+  }
+  #top-nav{
+    display: flex;
+    gap: 130px;
+    margin-top: 1%;
+    font-size: 25px;
+    padding-top: 0%;
+  
+  }
+  .help-signout{
+    display: flex;
+    gap: 190px;
+    padding-left: 180px;
+  }
+#navlist {
+    display: flex;
+    gap: 450px;
+    list-style: none;
+    margin-left:7%;
+    font-size: 24px;
+    color: white;
+    padding-top: 0.7%;
+  
+  }
+  .nav-link{
+    color: white;
+    text-decoration: none; 
+  }
+  .nav-link.active {
+    text-decoration: underline;
+  }
+  #navbar{
+    background-color: rgb(11, 11, 74);
+    height: 110px;
+    padding-top: 2px;
+  }
